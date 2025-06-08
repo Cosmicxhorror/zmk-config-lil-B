@@ -2,7 +2,7 @@
 
 _The based keygod._
 
-[Here](https://github.com/kilipan/zmk-keyboards-zilpzalp) you can find the ZMK module for Lil B.
+[Here](https://github.com/kilipan/zmk-keyboards-lil-B) you can find the ZMK module for Lil B.
 
 ## HOW TO USE
 
